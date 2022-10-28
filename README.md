@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayaitoko
-- 👀 I’m interested in ethical hacking and server hosting aswell as networking
-- 🌱 I’m currently learning botnets and dos attacking aswell as the vmware esxi hypervisor
+- 👀 I’m interested in ethical hacking and server hosting aswell as networking and web development
+- 🌱 I’m currently learning react and rust aswell as the proxmox hypervisor
 - 📫 How to reach me: dont <3
 
 <!---
