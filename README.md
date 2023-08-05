@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayaitoko
 - 👀 I’m interested in ethical hacking and server hosting aswell as networking and web development
-- 🌱 I’m currently learning react and rust aswell as the proxmox hypervisor
+- 🌱 I’m currently learning python, lua, and c++ aswell as the proxmox hypervisor
 - 📫 How to reach me: dont <3
 
 <!---
